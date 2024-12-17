@@ -1,0 +1,37 @@
+{
+
+  "424因子": "/api/market/getMktStockFactorsOneDayPro.json?field=&secID=&ticker=&tradeDate=#DATE#",
+  "A股精品因子数据": "/api/market/getEquFancyFactors.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "精品因子库基础信息表": "/api/market/getEquFancyFactorsInfo.json?field=&factorName=UDSL_UCL&tableName=",
+  "精品因子库数据表6": "/api/market/getEquFancyFactors6.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+   "精品因子库数据表7": "/api/market/getEquFancyFactors7.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+   "精品因子库数据表8": "/api/market/getEquFancyFactors8.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "风险因子协方差矩阵表_s": "/api/equity/getDy1sCovarianceCNE6ZX20.json?field=&factorName=&tradeDate=#DATE#&beginDate=&endDate=",
+  "因子暴露表_s": "/api/equity/getDy1sExposureCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "因子收益率表_1s": "/api/equity/getDy1sFactorRetCNE6ZX20.json?field=&tradeDate=#DATE#&beginDate=&endDate=",
+  "特质收益率表_1s": "/api/equity/getDy1sSpecificRetCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "特质风险表_s": "/api/equity/getDy1sSriskCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "风险因子协方差矩阵表_日频": "/api/equity/getDy1dCovarianceCNE6ZX20.json?field=&factorName=&tradeDate=#DATE#&beginDate=&endDate=",
+  "因子暴露表_日频": "/api/equity/getDy1dExposureCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "因子收益率表_日频": "/api/equity/getDy1dFactorRetCNE6ZX20.json?field=&tradeDate=#DATE#&beginDate=&endDate=",
+  "特质收益率表_日频": "/api/equity/getDy1dSpecificRetCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "特质风险表_日频": "/api/equity/getDy1dSriskCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "风险因子协方差矩阵表_1l": "/api/equity/getDy1lCovarianceCNE6ZX20.json?field=&factorName=&tradeDate=#DATE#&beginDate=&endDate=",
+  "特质风险表_1l": "/api/equity/getDy1lSriskCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+
+  "日频特征表1(相关性)": "/api/alternative/getHfDailyDerTable1.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "日频特征表4(动量反转)": "/api/alternative/getHfDailyDerTable4.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "日频特征表5(价格类)": "/api/alternative/getHfDailyDerTable5.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "日频特征表2(流动性)": "/api/alternative/getHfDailyDerTable3.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "日频特征基础信息": "/api/alternative/getHfDailyDerInfo.json?field=&tableName=&category1=",
+  "日频特征表3(资金流)": "/api/alternative/getHfDailyDerTable3.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "日频特征表6(波动类)": "/api/alternative/getHfDailyDerTable6.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "日频特征表7(成交量占比)": "/api/alternative/getHfDailyDerTable7.json?ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+
+  "HF转低频因子数据表1": "/api/alternative/getEquH2LFactorT1.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "HF转低频因子数据表2": "/api/alternative/getEquH2LFactorT1.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "HF转低频因子数据表3": "/api/alternative/getEquH2LFactorT1.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "HF转低频因子数据表4": "/api/alternative/getEquH2LFactorT4.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate=",
+  "HF转低频因子库基础信息表": "/api/alternative/getEquH2LFactorInfo.json?field=&factorName=BCVP_5MIN&tableName=&category1=&category2="
+}
+

@@ -1,0 +1,21 @@
+Error copying table aequfropleinforepperend: Connection.execute() takes from 2 to 3 positional arguments but 70913 were given
+Error copying table aequfropleinforepperend: mapping or list expected for parameters
+Error copying table aequfropleinforepperend: mapping or list expected for parameters
+Error copying table aequfropleinforepperend: mapping or list expected for parameters
+Error copying table aequfropleinforepperend: mapping or list expected for parameters
+Error copying table aequfropleinforepperend: mapping or list expected for parameters
+Error copying table aequfropleinforepperend: Connection.execute() takes from 2 to 3 positional arguments but 70913 were given
+Error copying table aequfropleinforepperend: mapping or list expected for parameters
+Error copying table aequfropleinforepperend: name 'Decimal' is not defined
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: float() argument must be a string or a real number, not 'datetime.datetime'
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: float() argument must be a string or a real number, not 'datetime.datetime'
+Error copying table aequfropleinforepperend: List argument must consist only of tuples or dictionaries
+Error copying table aequfropleinforepperend: name 'rows' is not defined
+Error copying table aindexdescription: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'rm-uf62t0x7ri1q459zm.mysql.rds.aliyuncs.com' (timed out)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)

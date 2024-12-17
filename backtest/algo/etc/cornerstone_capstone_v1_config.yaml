@@ -1,0 +1,57 @@
+AlgoTradingParamsList:
+  - Name: UltraFast
+    BufferingAreaLevelNum: 3
+    IncreasedPct: 3
+    ClusterId: 1
+    MaxSlice1Num: 99
+    MaxSliceNumInLvl: 99
+    MaxSliceNum: 12
+    MaxLvlNum: 10
+    LookingDepth: 3
+    OspreyPassiveSliceBuffer: 5
+
+  - Name : Sparse
+    BufferingAreaLevelNum: 3
+    IncreasedPct: 2
+    ClusterId : 2
+    MaxSlice1Num : 99
+    MaxSliceNumInLvl : 99
+    MaxSliceNum : 15
+    MaxLvlNum : 10
+    LookingDepth: 3
+    OspreyPassiveSliceBuffer: 5
+
+  - Name: Slow
+    ClusterId: 3
+    MaxSlice1Num: 6
+    MaxSliceNumInLvl: 2
+    MaxSliceNum: 7
+    MaxLvlNum: 2
+    MinVol: 0.05
+    MaxVol: 0.15
+    LookingDepth: 1
+    OspreyPassiveSliceBuffer: 2
+
+  - Name: Normal
+    ClusterId: 4
+    MaxSlice1Num: 9
+    MaxSliceNumInLvl: 2
+    MaxSliceNum: 10
+    MaxLvlNum: 3
+    MinVol: 0.05
+    MaxVol: 0.15
+    LookingDepth: 2
+    OspreyPassiveSliceBuffer: 3
+
+  - Name: Fast
+    BufferingAreaLevelNum: 3
+    IncreasedPct: 3
+    ClusterId: 5
+    MaxSlice1Num: 99
+    MaxSliceNumInLvl: 99
+    MaxSliceNum: 12
+    MaxLvlNum: 10
+    MinVol: 0.02
+    MaxVol: 0.05
+    LookingDepth: 3
+    OspreyPassiveSliceBuffer: 5

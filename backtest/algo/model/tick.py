@@ -1,0 +1,65 @@
+from pydantic import BaseModel
+from typing import Optional
+
+
+class Tick(BaseModel):
+    code: Optional[str] = ""
+    date: Optional[int] = 0
+    time: Optional[int] = 0
+    price: Optional[int] = 0
+    volume: Optional[int] = 0
+    turnover: Optional[int] = 0
+    match_items: Optional[int] = 0
+    interest: Optional[int] = 0
+    trade_flag: Optional[str] = ""
+    bs_flag: Optional[str] = ""
+    acc_volume: Optional[int] = 0
+    acc_turnover: Optional[int] = 0
+    high: Optional[int] = 0
+    low: Optional[int] = 0
+    open: Optional[int] = 0
+    pre_close: Optional[int] = 0
+    ask_avg_price: Optional[int] = 0
+    bid_avg_price: Optional[int] = 0
+    total_ask_volume: Optional[int] = 0
+    total_bid_volume: Optional[int] = 0
+    ask_price1: Optional[float] = 0.0
+    ask_price2: Optional[float] = 0.0
+    ask_price3: Optional[float] = 0.0
+    ask_price4: Optional[float] = 0.0
+    ask_price5: Optional[float] = 0.0
+    ask_price6: Optional[float] = 0.0
+    ask_price7: Optional[float] = 0.0
+    ask_price8: Optional[float] = 0.0
+    ask_price9: Optional[float] = 0.0
+    ask_price10: Optional[float] = 0.0
+    ask_volume1: Optional[int] = 0
+    ask_volume2: Optional[int] = 0
+    ask_volume3: Optional[int] = 0
+    ask_volume4: Optional[int] = 0
+    ask_volume5: Optional[int] = 0
+    ask_volume6: Optional[int] = 0
+    ask_volume7: Optional[int] = 0
+    ask_volume8: Optional[int] = 0
+    ask_volume9: Optional[int] = 0
+    ask_volume10: Optional[int] = 0
+    bid_price1: Optional[float] = 0.0
+    bid_price2: Optional[float] = 0.0
+    bid_price3: Optional[float] = 0.0
+    bid_price4: Optional[float] = 0.0
+    bid_price5: Optional[float] = 0.0
+    bid_price6: Optional[float] = 0.0
+    bid_price7: Optional[float] = 0.0
+    bid_price8: Optional[float] = 0.0
+    bid_price9: Optional[float] = 0.0
+    bid_price10: Optional[float] = 0.0
+    bid_volume1: Optional[int] = 0
+    bid_volume2: Optional[int] = 0
+    bid_volume3: Optional[int] = 0
+    bid_volume4: Optional[int] = 0
+    bid_volume5: Optional[int] = 0
+    bid_volume6: Optional[int] = 0
+    bid_volume7: Optional[int] = 0
+    bid_volume8: Optional[int] = 0
+    bid_volume9: Optional[int] = 0
+    bid_volume10: Optional[int] = 0

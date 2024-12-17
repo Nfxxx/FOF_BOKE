@@ -1,0 +1,27 @@
+deo={//# 424因子
+//url='/api/market/getStockFactorsOneDay.json?field=&secID=&ticker=&tradeDate=#DATE#'
+//# A股精品因子数据
+//url1 = '/api/market/getEquFancyFactors.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate='
+//# 精品因子库基础信息表
+//url1 = '/api/market/getEquFancyFactorsInfo.json?field=&factorName=UDSL_UCL&tableName='
+//# 精品因子库数据表6
+//url1 = '/api/market/getEquFancyFactors6.json?field=&ticker=&tradeDate=#DATE#&beginDate=&endDate='
+//# 风险因子协方差矩阵表
+//url1 = '/api/equity/getDy1sCovarianceCNE6ZX20.json?field=&factorName=&tradeDate=#DATE#&beginDate=&endDate='
+//#因子暴露表
+//url='/api/equity/getDy1sExposureCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate='
+//#因子收益率表
+//url='/api/equity/getDy1sFactorRetCNE6ZX20.json?field=&tradeDate=#DATE#&beginDate=&endDate='
+//#特质收益率表
+//url='/api/equity/getDy1sSpecificRetCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate='//
+//# 特质风险表
+//url='/api/equity/getDy1sSriskCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate='
+//# 风险因子协方差矩阵表
+//url='/api/equity/getDy1dCovarianceCNE6ZX20.json?field=&factorName=&tradeDate=#DATE#&beginDate=&endDate='
+//# 因子暴露表
+//url='/api/equity/getDy1dExposureCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate='
+//# 因子收益率表
+//url='/api/equity/getDy1dFactorRetCNE6ZX20.json?field=&tradeDate=#DATE#&beginDate=&endDate='
+//#特质收益率表
+//url='/api/equity/getDy1dSpecificRetCNE6ZX20.json?field=&secID=&ticker=&tradeDate=#DATE#&beginDate=&endDate='
+}
